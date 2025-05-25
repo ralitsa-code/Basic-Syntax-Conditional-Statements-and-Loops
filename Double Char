@@ -6,3 +6,5 @@ while current_string != "End":
             new_string += character * 2
         print(new_string)
     current_string = input()
+
+test
