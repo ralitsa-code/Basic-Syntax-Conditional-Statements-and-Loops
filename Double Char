@@ -7,4 +7,4 @@ while current_string != "End":
         print(new_string)
     current_string = input()
 
-test
+test 123
